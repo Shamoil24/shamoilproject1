@@ -1,0 +1,45 @@
+
+body{
+    background-color:lightgoldenrodyellow;
+    font-family: 'Markazi text',serif;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-right: 5%;
+    margin-left: 5%;
+   
+
+}
+h1{
+    font-size: 3rem;
+    color: rgb(190, 194, 119);
+    text-align: center;
+}
+header > img{
+    display: block;
+     margin-left: auto;
+    margin-right: auto;
+    max-width: auto;
+}
+footer{
+    display: flex;
+}
+div{
+    flex:1;
+    
+}
+div > img{
+    max-width: 20px;
+}
+div > p{
+    text-align: end;
+    text-decoration: overline;
+}
+section{
+    display: block;
+}
+article{
+    font-size: medium;
+    font-style: italic;
+    color: rgb(113, 132, 4);
+    font-size: 20px;
+}
